@@ -1,5 +1,6 @@
 # SC5002-Group-4-Lab2
 This is the file for NTU SC5002 Lab Assignment 2 from Group 4 (Fan Xinqing, Vijaya Madhulika, Lai Cheuk Lim)
+
 Highlighting contributions for each team member:
 
 _Fang Xinqing:_ Introduction and overview presentation, Linear Regression Model coding and presentation, and writing the README file
